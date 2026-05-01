@@ -1,6 +1,4 @@
 # DroneFlyWeather
-DroneFlyWeather helps drone pilots check wind, gusts, rain, visibility, and safe flight conditions before takeoff. It gives fast local forecasts, hourly and daily outlooks, and simple flight ratings designed for smarter flying.
-# DroneFlyWeather
 
 DroneFlyWeather is an Android weather app built for drone pilots who need quick, practical flight guidance before takeoff. It combines forecast data, hourly and daily outlooks, flight condition labels, and location-based weather details in a clean Jetpack Compose interface.
 
